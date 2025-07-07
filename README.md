@@ -1,3 +1,4 @@
+[The Boys – Supes & Scandals Monitor.pdf](https://github.com/user-attachments/files/21101364/The.Boys.Supes.Scandals.Monitor.pdf)
 # 🧠 Vought Intelligence Feed: Compound V Threat Dashboard
 
 Welcome to the **Compound V Threat Console**, a narrative-driven Power BI dashboard inspired by *The Boys* universe. This report blends data storytelling, fictional intelligence, and cinematic visuals to simulate Vought’s internal surveillance and PR ops console.

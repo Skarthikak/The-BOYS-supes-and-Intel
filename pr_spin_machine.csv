@@ -1,0 +1,101 @@
+pr_id,incident_id,supe,release_date,tone,vought_exec,bias_score
+PR201,INC173,Queen Maeve,2021-05-27,Omission,PRBot 2.1,2.0
+PR202,INC145,Starlight,2022-04-14,Blame Redirection,Stan Edgar,4.3
+PR203,INC130,Homelander,2022-03-06,Defensive,Sage Grove Analyst,3.3
+PR204,INC159,Kimiko,2022-02-19,Patriotic Spin,PRBot 2.1,8.2
+PR205,INC155,Kimiko,2023-07-07,Patriotic Spin,PRBot 2.1,9.3
+PR206,INC121,Kimiko,2023-02-16,Omission,Sage Grove Analyst,8.4
+PR207,INC159,A-Train,2023-05-02,Patriotic Spin,Sage Grove Analyst,7.3
+PR208,INC156,Kimiko,2021-02-22,Defensive,Sage Grove Analyst,3.1
+PR209,INC138,Homelander,2022-07-09,Blame Redirection,PRBot 2.1,3.9
+PR210,INC200,The Deep,2022-11-07,Blame Redirection,Sage Grove Analyst,7.8
+PR211,INC154,A-Train,2023-08-24,Inspirational,Stan Edgar,4.7
+PR212,INC146,Queen Maeve,2021-02-12,Inspirational,PRBot 2.1,8.8
+PR213,INC177,Queen Maeve,2021-08-24,Blame Redirection,Sage Grove Analyst,8.0
+PR214,INC142,Kimiko,2022-08-04,Corporate Jargon,Sage Grove Analyst,3.4
+PR215,INC159,Queen Maeve,2022-06-12,Corporate Jargon,Ashley Barrett,6.2
+PR216,INC152,A-Train,2021-02-22,Patriotic Spin,The Deep,5.9
+PR217,INC119,Queen Maeve,2023-07-30,Corporate Jargon,The Deep,4.3
+PR218,INC197,Kimiko,2023-06-22,Omission,Ashley Barrett,6.9
+PR219,INC185,Starlight,2022-07-05,Inspirational,Sage Grove Analyst,8.6
+PR220,INC126,Kimiko,2021-12-24,Corporate Jargon,PRBot 2.1,2.9
+PR221,INC188,The Deep,2021-11-12,Inspirational,Ashley Barrett,6.1
+PR222,INC169,Queen Maeve,2022-12-10,Inspirational,The Deep,9.5
+PR223,INC164,A-Train,2023-08-28,Blame Redirection,PRBot 2.1,6.7
+PR224,INC132,Starlight,2021-04-20,Inspirational,PRBot 2.1,8.1
+PR225,INC141,A-Train,2021-11-30,Defensive,Ashley Barrett,6.2
+PR226,INC168,The Deep,2022-03-03,Inspirational,Sage Grove Analyst,5.6
+PR227,INC152,A-Train,2021-09-20,Omission,Stan Edgar,2.0
+PR228,INC110,Homelander,2022-04-17,Patriotic Spin,Sage Grove Analyst,2.7
+PR229,INC158,Homelander,2022-07-02,Defensive,Sage Grove Analyst,5.9
+PR230,INC156,Kimiko,2022-12-23,Omission,Ashley Barrett,5.0
+PR231,INC132,The Deep,2022-01-26,Defensive,Ashley Barrett,8.7
+PR232,INC105,A-Train,2023-01-17,Defensive,Sage Grove Analyst,8.7
+PR233,INC127,Kimiko,2023-08-04,Defensive,Stan Edgar,4.4
+PR234,INC183,Starlight,2021-09-20,Omission,The Deep,5.0
+PR235,INC176,Kimiko,2022-10-29,Corporate Jargon,The Deep,7.7
+PR236,INC199,Starlight,2023-02-18,Inspirational,PRBot 2.1,5.4
+PR237,INC161,A-Train,2023-04-01,Patriotic Spin,Stan Edgar,4.8
+PR238,INC198,Kimiko,2021-12-02,Blame Redirection,Sage Grove Analyst,7.0
+PR239,INC156,Homelander,2022-10-28,Omission,Sage Grove Analyst,7.7
+PR240,INC101,Starlight,2022-08-12,Blame Redirection,PRBot 2.1,9.5
+PR241,INC179,Kimiko,2021-05-02,Inspirational,Stan Edgar,9.8
+PR242,INC106,Starlight,2022-02-13,Omission,The Deep,9.3
+PR243,INC136,Kimiko,2022-03-14,Patriotic Spin,Stan Edgar,9.5
+PR244,INC163,Kimiko,2023-02-15,Inspirational,Ashley Barrett,6.4
+PR245,INC178,Homelander,2023-02-01,Omission,Stan Edgar,7.3
+PR246,INC129,Starlight,2022-12-14,Blame Redirection,PRBot 2.1,6.9
+PR247,INC197,Queen Maeve,2023-06-06,Inspirational,Ashley Barrett,6.3
+PR248,INC166,Starlight,2021-06-19,Omission,Stan Edgar,9.0
+PR249,INC191,Kimiko,2022-09-21,Corporate Jargon,The Deep,3.8
+PR250,INC113,Starlight,2021-10-07,Corporate Jargon,The Deep,7.1
+PR251,INC116,Kimiko,2022-03-23,Blame Redirection,Stan Edgar,2.9
+PR252,INC102,A-Train,2023-09-26,Corporate Jargon,Stan Edgar,3.7
+PR253,INC168,The Deep,2022-06-13,Corporate Jargon,Ashley Barrett,7.8
+PR254,INC185,A-Train,2023-08-22,Corporate Jargon,Stan Edgar,7.9
+PR255,INC143,Kimiko,2022-07-15,Inspirational,The Deep,3.1
+PR256,INC127,Starlight,2021-02-27,Patriotic Spin,Ashley Barrett,2.3
+PR257,INC199,A-Train,2022-02-16,Patriotic Spin,The Deep,6.1
+PR258,INC137,Kimiko,2022-06-08,Omission,The Deep,2.3
+PR259,INC153,The Deep,2022-10-28,Blame Redirection,Sage Grove Analyst,3.5
+PR260,INC135,Queen Maeve,2021-01-31,Omission,Sage Grove Analyst,4.9
+PR261,INC105,Starlight,2023-06-08,Blame Redirection,Sage Grove Analyst,6.8
+PR262,INC155,A-Train,2021-01-02,Inspirational,Stan Edgar,9.4
+PR263,INC132,Kimiko,2023-05-17,Omission,Ashley Barrett,5.3
+PR264,INC176,Queen Maeve,2021-01-26,Patriotic Spin,Ashley Barrett,5.0
+PR265,INC162,The Deep,2022-05-22,Blame Redirection,Stan Edgar,7.0
+PR266,INC160,Homelander,2021-08-24,Inspirational,Sage Grove Analyst,7.6
+PR267,INC105,Kimiko,2023-02-13,Blame Redirection,Sage Grove Analyst,2.2
+PR268,INC197,Kimiko,2022-08-23,Blame Redirection,The Deep,2.2
+PR269,INC133,A-Train,2022-04-03,Blame Redirection,Stan Edgar,7.6
+PR270,INC117,Homelander,2021-06-28,Defensive,PRBot 2.1,7.5
+PR271,INC141,A-Train,2021-11-06,Inspirational,PRBot 2.1,5.4
+PR272,INC159,Homelander,2022-08-06,Corporate Jargon,PRBot 2.1,4.0
+PR273,INC149,Queen Maeve,2021-01-15,Patriotic Spin,Ashley Barrett,3.5
+PR274,INC145,Homelander,2021-12-28,Defensive,Sage Grove Analyst,4.7
+PR275,INC171,A-Train,2023-02-24,Defensive,The Deep,3.5
+PR276,INC182,A-Train,2021-07-22,Corporate Jargon,Sage Grove Analyst,3.9
+PR277,INC126,A-Train,2021-10-23,Omission,Sage Grove Analyst,9.7
+PR278,INC106,Homelander,2021-02-12,Defensive,PRBot 2.1,8.3
+PR279,INC179,Queen Maeve,2021-12-05,Inspirational,Stan Edgar,8.1
+PR280,INC191,A-Train,2021-03-26,Patriotic Spin,The Deep,3.9
+PR281,INC175,Starlight,2021-07-03,Patriotic Spin,Ashley Barrett,6.7
+PR282,INC166,Homelander,2022-11-09,Defensive,Ashley Barrett,6.6
+PR283,INC170,Kimiko,2022-06-24,Omission,Stan Edgar,6.7
+PR284,INC116,A-Train,2022-11-27,Blame Redirection,The Deep,9.5
+PR285,INC112,A-Train,2021-09-28,Defensive,The Deep,6.9
+PR286,INC115,Starlight,2021-05-15,Defensive,Ashley Barrett,6.5
+PR287,INC142,A-Train,2022-12-18,Corporate Jargon,The Deep,8.2
+PR288,INC148,Homelander,2023-03-21,Corporate Jargon,Stan Edgar,3.7
+PR289,INC116,The Deep,2022-01-31,Patriotic Spin,Ashley Barrett,9.9
+PR290,INC163,A-Train,2022-02-14,Defensive,Stan Edgar,8.3
+PR291,INC132,A-Train,2021-03-20,Inspirational,PRBot 2.1,7.2
+PR292,INC101,Starlight,2021-03-03,Omission,PRBot 2.1,5.7
+PR293,INC177,The Deep,2022-02-21,Omission,The Deep,2.4
+PR294,INC138,Starlight,2021-08-19,Blame Redirection,Sage Grove Analyst,3.6
+PR295,INC180,A-Train,2022-08-03,Patriotic Spin,PRBot 2.1,4.7
+PR296,INC128,Starlight,2021-05-27,Blame Redirection,Sage Grove Analyst,5.7
+PR297,INC176,Queen Maeve,2021-03-14,Corporate Jargon,PRBot 2.1,2.0
+PR298,INC171,The Deep,2021-03-21,Patriotic Spin,Ashley Barrett,5.6
+PR299,INC133,Homelander,2023-03-01,Patriotic Spin,Stan Edgar,6.7
+PR300,INC174,The Deep,2023-08-01,Omission,Stan Edgar,6.5

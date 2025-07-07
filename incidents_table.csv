@@ -1,0 +1,51 @@
+incident_id,date,supe,location,incident_type,casualties,damage_cost_usd
+INC001,2024-04-01,A-Train,New York,Cover-up,18,3203030
+INC002,2023-12-28,Shetty,Los Angeles,Cover-up,16,237210
+INC003,2023-09-14,Translucent,Vought Tower,Collateral Blast,30,2519565
+INC004,2022-12-03,The Deep,Underground Lab,Unknown,49,4106052
+INC005,2024-04-27,Starlight,Detroit,Rescue Gone Wrong,46,8133398
+INC006,2022-05-04,Tek Knight,New York,Unknown,80,3043576
+INC007,2023-07-28,Andre Anderson,Chicago,Rescue Gone Wrong,78,9776137
+INC008,2023-12-14,Jordan Li,Detroit,Unknown,47,6130384
+INC009,2023-04-02,Soldier Boy,Underground Lab,Unknown,44,7777576
+INC010,2022-08-08,Tek Knight,New York,Collateral Blast,3,411965
+INC011,2023-11-23,Victoria Neuman,Atlanta,Rescue Gone Wrong,56,7327887
+INC012,2023-05-26,Stan Edgar,Vought Tower,Collateral Blast,63,9308390
+INC013,2024-02-24,Stormfront,Atlanta,Unknown,57,4819411
+INC014,2023-12-24,Kimiko,Vought Tower,Street Fight,78,6911115
+INC015,2023-01-30,A-Train,Atlanta,Street Fight,24,8947135
+INC016,2024-01-28,Victoria Neuman,Los Angeles,Street Fight,34,8244132
+INC017,2023-05-29,Victoria Neuman,New York,Rescue Gone Wrong,30,4638919
+INC018,2024-05-22,Frenchie,Underground Lab,Unknown,22,8307225
+INC019,2023-12-27,Hughie Campbell,Atlanta,Street Fight,21,7435522
+INC020,2023-01-30,Stan Edgar,New York,Rescue Gone Wrong,67,3253593
+INC021,2024-01-16,Emma Meyer,Detroit,Unknown,41,5150713
+INC022,2023-05-15,Victoria Neuman,Los Angeles,Unknown,4,5283349
+INC023,2023-08-09,Shetty,Los Angeles,Street Fight,14,3873975
+INC024,2022-05-18,Victoria Neuman,Underground Lab,Unknown,79,2035751
+INC025,2024-02-01,Andre Anderson,Chicago,Street Fight,30,2537858
+INC026,2022-08-20,Sam Riordan,Detroit,Unknown,15,2062330
+INC027,2022-01-17,Homelander,New York,Cover-up,13,6607124
+INC028,2023-11-17,Polarity,Underground Lab,Cover-up,14,5430115
+INC029,2022-07-13,Mother's Milk,Atlanta,Collateral Blast,39,4292831
+INC030,2023-05-28,Black Noir,Chicago,Unknown,55,8005945
+INC031,2022-08-11,Stan Edgar,Los Angeles,Cover-up,19,4214950
+INC032,2022-11-19,Victoria Neuman,New York,Cover-up,80,6554922
+INC033,2023-05-10,Stormfront,Chicago,Street Fight,14,4279899
+INC034,2023-01-31,Shetty,Vought Tower,Street Fight,63,2055999
+INC035,2023-09-18,Cate Dunlap,Atlanta,Cover-up,63,4332044
+INC036,2022-09-23,Translucent,Detroit,Cover-up,58,754732
+INC037,2022-10-21,Ryan Butcher,New York,Street Fight,57,2940799
+INC038,2024-02-27,Andre Anderson,Los Angeles,Rescue Gone Wrong,57,8211948
+INC039,2024-06-09,Grace Mallory,Chicago,Street Fight,73,6174832
+INC040,2023-08-21,Kimiko,Chicago,Rescue Gone Wrong,44,7966667
+INC041,2022-01-18,Soldier Boy,Underground Lab,Street Fight,19,6900850
+INC042,2023-10-18,Emma Meyer,Detroit,Collateral Blast,44,5776348
+INC043,2022-06-08,Marie Moreau,Detroit,Unknown,26,9989262
+INC044,2022-03-15,Ashley Barrett,Atlanta,Rescue Gone Wrong,17,1662845
+INC045,2022-02-18,Kimiko,New York,Collateral Blast,71,7597782
+INC046,2023-06-21,A-Train,Vought Tower,Collateral Blast,45,5087091
+INC047,2022-05-05,Translucent,Los Angeles,Unknown,2,1564671
+INC048,2022-12-26,Soldier Boy,Los Angeles,Rescue Gone Wrong,41,8062699
+INC049,2023-11-02,Ryan Butcher,Los Angeles,Rescue Gone Wrong,62,9572321
+INC050,2022-04-15,Stan Edgar,Atlanta,Rescue Gone Wrong,74,7572228

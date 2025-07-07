@@ -1,0 +1,71 @@
+event_id,region,event_type,confirmed_doses,v_level,lab_status,event_date,country,state,city,latitude,longitude
+CV301,NYC,Formula Theft,184,High,Quarantined,2024-07-04,United States,New York,New York City,40.7128,-74.006
+CV302,Southern States,Black Market Seizure,229,High,Active,2022-12-22,United States,Texas,Houston,29.7604,-95.3698
+CV303,Midwest,Formula Theft,258,High,Unconfirmed,2023-11-27,United States,Illinois,Chicago,41.8781,-87.6298
+CV304,Overseas Blacksite,Raid,249,Medium,Shutdown,2022-12-08,United Kingdom,England,London,51.5074,-0.1278
+CV305,Overseas Blacksite,Formula Theft,176,High,Active,2022-02-02,United Kingdom,England,London,51.5074,-0.1278
+CV306,West Coast,Leak,97,Medium,Shutdown,2022-07-15,United States,California,Los Angeles,34.0522,-118.2437
+CV307,NYC,Raid,64,High,Quarantined,2023-10-16,United States,New York,New York City,40.7128,-74.006
+CV308,Overseas Blacksite,Raid,379,High,Quarantined,2024-07-08,United Kingdom,England,London,51.5074,-0.1278
+CV309,Midwest,Leak,446,High,Shutdown,2022-08-19,United States,Illinois,Chicago,41.8781,-87.6298
+CV310,Overseas Blacksite,Black Market Seizure,245,High,Shutdown,2023-11-18,United Kingdom,England,London,51.5074,-0.1278
+CV311,Southern States,Raid,102,Medium,Shutdown,2023-08-21,United States,Texas,Houston,29.7604,-95.3698
+CV312,Southern States,Formula Theft,196,Medium,Shutdown,2023-05-16,United States,Texas,Houston,29.7604,-95.3698
+CV313,Southern States,Supe Emergence,104,Critical,Shutdown,2022-06-09,United States,Texas,Houston,29.7604,-95.3698
+CV314,West Coast,Supe Emergence,151,Critical,Shutdown,2022-06-25,United States,California,Los Angeles,34.0522,-118.2437
+CV315,NYC,Black Market Seizure,31,Critical,Unconfirmed,2023-03-25,United States,New York,New York City,40.7128,-74.006
+CV316,East Corridor,Supe Emergence,238,Medium,Unconfirmed,2022-01-22,United States,Massachusetts,Boston,42.3601,-71.0589
+CV317,Midwest,Raid,494,Critical,Quarantined,2022-06-29,United States,Illinois,Chicago,41.8781,-87.6298
+CV318,Southern States,Supe Emergence,386,Critical,Active,2024-06-06,United States,Texas,Houston,29.7604,-95.3698
+CV319,Southern States,Formula Theft,263,Medium,Active,2023-10-07,United States,Texas,Houston,29.7604,-95.3698
+CV320,Overseas Blacksite,Raid,241,Critical,Unconfirmed,2024-05-07,United Kingdom,England,London,51.5074,-0.1278
+CV321,Overseas Blacksite,Black Market Seizure,95,High,Shutdown,2024-06-30,United Kingdom,England,London,51.5074,-0.1278
+CV322,Midwest,Leak,355,Medium,Shutdown,2024-06-18,United States,Illinois,Chicago,41.8781,-87.6298
+CV323,NYC,Supe Emergence,25,Low,Quarantined,2023-01-27,United States,New York,New York City,40.7128,-74.006
+CV324,NYC,Raid,81,High,Unconfirmed,2024-05-28,United States,New York,New York City,40.7128,-74.006
+CV325,Overseas Blacksite,Black Market Seizure,248,Low,Unconfirmed,2022-11-05,United Kingdom,England,London,51.5074,-0.1278
+CV326,Southern States,Black Market Seizure,467,High,Shutdown,2023-06-16,United States,Texas,Houston,29.7604,-95.3698
+CV327,Midwest,Formula Theft,113,Low,Active,2024-06-27,United States,Illinois,Chicago,41.8781,-87.6298
+CV328,NYC,Raid,53,Critical,Active,2023-01-19,United States,New York,New York City,40.7128,-74.006
+CV329,East Corridor,Supe Emergence,202,Critical,Unconfirmed,2022-04-25,United States,Massachusetts,Boston,42.3601,-71.0589
+CV330,Midwest,Leak,453,Medium,Unconfirmed,2023-12-18,United States,Illinois,Chicago,41.8781,-87.6298
+CV331,East Corridor,Leak,152,Low,Quarantined,2022-04-25,United States,Massachusetts,Boston,42.3601,-71.0589
+CV332,Midwest,Black Market Seizure,373,Critical,Active,2023-04-22,United States,Illinois,Chicago,41.8781,-87.6298
+CV333,East Corridor,Raid,328,Critical,Shutdown,2024-05-01,United States,Massachusetts,Boston,42.3601,-71.0589
+CV334,East Corridor,Black Market Seizure,26,High,Quarantined,2022-10-05,United States,Massachusetts,Boston,42.3601,-71.0589
+CV335,NYC,Leak,207,Low,Unconfirmed,2022-11-01,United States,New York,New York City,40.7128,-74.006
+CV336,NYC,Black Market Seizure,55,Low,Unconfirmed,2024-02-05,United States,New York,New York City,40.7128,-74.006
+CV337,Southern States,Raid,88,Medium,Active,2022-11-23,United States,Texas,Houston,29.7604,-95.3698
+CV338,NYC,Raid,370,Critical,Quarantined,2022-01-19,United States,New York,New York City,40.7128,-74.006
+CV339,Southern States,Black Market Seizure,409,High,Active,2023-10-04,United States,Texas,Houston,29.7604,-95.3698
+CV340,West Coast,Black Market Seizure,312,High,Shutdown,2023-03-12,United States,California,Los Angeles,34.0522,-118.2437
+CV341,West Coast,Leak,457,Critical,Shutdown,2024-01-02,United States,California,Los Angeles,34.0522,-118.2437
+CV342,NYC,Formula Theft,193,Medium,Active,2023-10-30,United States,New York,New York City,40.7128,-74.006
+CV343,Southern States,Supe Emergence,416,Medium,Unconfirmed,2022-01-16,United States,Texas,Houston,29.7604,-95.3698
+CV344,Southern States,Raid,60,High,Shutdown,2022-06-15,United States,Texas,Houston,29.7604,-95.3698
+CV345,Southern States,Raid,195,Low,Unconfirmed,2022-10-01,United States,Texas,Houston,29.7604,-95.3698
+CV346,East Corridor,Formula Theft,420,High,Shutdown,2022-03-26,United States,Massachusetts,Boston,42.3601,-71.0589
+CV347,West Coast,Formula Theft,299,Medium,Quarantined,2023-07-27,United States,California,Los Angeles,34.0522,-118.2437
+CV348,East Corridor,Raid,186,High,Active,2022-01-29,United States,Massachusetts,Boston,42.3601,-71.0589
+CV349,West Coast,Black Market Seizure,30,High,Unconfirmed,2022-09-20,United States,California,Los Angeles,34.0522,-118.2437
+CV350,Midwest,Raid,53,Critical,Shutdown,2023-11-13,United States,Illinois,Chicago,41.8781,-87.6298
+CV351,Southern States,Raid,63,Critical,Shutdown,2022-08-25,United States,Texas,Houston,29.7604,-95.3698
+CV352,West Coast,Raid,137,Critical,Active,2022-03-26,United States,California,Los Angeles,34.0522,-118.2437
+CV353,East Corridor,Raid,244,Medium,Shutdown,2024-09-09,United States,Massachusetts,Boston,42.3601,-71.0589
+CV354,Midwest,Raid,263,Critical,Active,2022-05-22,United States,Illinois,Chicago,41.8781,-87.6298
+CV355,Southern States,Supe Emergence,477,Medium,Active,2022-12-12,United States,Texas,Houston,29.7604,-95.3698
+CV356,Southern States,Black Market Seizure,239,Critical,Shutdown,2023-01-08,United States,Texas,Houston,29.7604,-95.3698
+CV357,Overseas Blacksite,Supe Emergence,317,Low,Shutdown,2022-06-24,United Kingdom,England,London,51.5074,-0.1278
+CV358,East Corridor,Leak,401,Low,Unconfirmed,2022-03-07,United States,Massachusetts,Boston,42.3601,-71.0589
+CV359,Southern States,Leak,124,High,Quarantined,2022-10-24,United States,Texas,Houston,29.7604,-95.3698
+CV360,NYC,Supe Emergence,282,High,Active,2024-04-19,United States,New York,New York City,40.7128,-74.006
+CV361,Midwest,Leak,268,Medium,Shutdown,2022-07-30,United States,Illinois,Chicago,41.8781,-87.6298
+CV362,Southern States,Black Market Seizure,212,Low,Shutdown,2022-07-31,United States,Texas,Houston,29.7604,-95.3698
+CV363,East Corridor,Raid,28,High,Active,2022-09-03,United States,Massachusetts,Boston,42.3601,-71.0589
+CV364,West Coast,Formula Theft,479,Critical,Shutdown,2023-09-25,United States,California,Los Angeles,34.0522,-118.2437
+CV365,East Corridor,Raid,298,High,Unconfirmed,2023-12-26,United States,Massachusetts,Boston,42.3601,-71.0589
+CV366,Overseas Blacksite,Raid,384,Low,Unconfirmed,2024-08-17,United Kingdom,England,London,51.5074,-0.1278
+CV367,Southern States,Raid,256,Low,Quarantined,2024-02-13,United States,Texas,Houston,29.7604,-95.3698
+CV368,West Coast,Supe Emergence,105,Low,Unconfirmed,2024-06-01,United States,California,Los Angeles,34.0522,-118.2437
+CV369,West Coast,Leak,276,Critical,Shutdown,2023-01-07,United States,California,Los Angeles,34.0522,-118.2437
+CV370,Southern States,Raid,147,Critical,Shutdown,2022-04-17,United States,Texas,Houston,29.7604,-95.3698

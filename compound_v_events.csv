@@ -1,0 +1,71 @@
+event_id,region,event_type,confirmed_doses,v_level,lab_status,event_date
+CV301,NYC,Leak,263,High,Unconfirmed,2023-07-16
+CV302,East Corridor,Raid,172,Low,Quarantined,2021-12-31
+CV303,Southern States,Supe Emergence,329,Medium,Quarantined,2023-07-19
+CV304,NYC,Formula Theft,192,High,Unconfirmed,2022-05-09
+CV305,Midwest,Leak,320,High,Active,2022-04-05
+CV306,Overseas Blacksite,Formula Theft,418,Low,Quarantined,2021-09-07
+CV307,East Corridor,Supe Emergence,183,Medium,Active,2022-12-31
+CV308,West Coast,Formula Theft,163,Low,Quarantined,2021-06-20
+CV309,East Corridor,Formula Theft,290,High,Unconfirmed,2022-04-20
+CV310,Midwest,Black Market Seizure,392,Low,Active,2023-08-04
+CV311,East Corridor,Black Market Seizure,262,High,Quarantined,2023-01-05
+CV312,NYC,Black Market Seizure,367,Medium,Unconfirmed,2022-09-15
+CV313,Midwest,Black Market Seizure,367,High,Quarantined,2022-05-10
+CV314,Overseas Blacksite,Raid,307,High,Quarantined,2021-09-30
+CV315,Overseas Blacksite,Black Market Seizure,69,Medium,Active,2022-12-10
+CV316,Southern States,Black Market Seizure,282,Medium,Active,2021-06-10
+CV317,East Corridor,Formula Theft,128,Critical,Unconfirmed,2021-01-21
+CV318,Southern States,Black Market Seizure,205,Low,Quarantined,2021-11-14
+CV319,Midwest,Leak,252,Low,Active,2022-03-07
+CV320,Midwest,Supe Emergence,307,Medium,Unconfirmed,2023-01-10
+CV321,NYC,Supe Emergence,191,Medium,Shutdown,2022-03-11
+CV322,East Corridor,Supe Emergence,406,Critical,Active,2021-05-09
+CV323,Midwest,Raid,273,Medium,Unconfirmed,2021-07-10
+CV324,Midwest,Formula Theft,206,High,Quarantined,2021-10-19
+CV325,Overseas Blacksite,Formula Theft,213,Low,Unconfirmed,2021-12-10
+CV326,West Coast,Supe Emergence,244,Low,Shutdown,2023-06-24
+CV327,East Corridor,Leak,157,Critical,Shutdown,2023-05-10
+CV328,Midwest,Formula Theft,262,Low,Shutdown,2022-01-27
+CV329,Southern States,Supe Emergence,207,Low,Quarantined,2023-04-18
+CV330,West Coast,Raid,495,Critical,Quarantined,2022-10-03
+CV331,West Coast,Leak,55,Low,Active,2023-01-04
+CV332,East Corridor,Supe Emergence,394,High,Unconfirmed,2022-03-13
+CV333,Southern States,Black Market Seizure,305,Low,Shutdown,2023-01-31
+CV334,Overseas Blacksite,Leak,238,Medium,Unconfirmed,2022-01-12
+CV335,Midwest,Supe Emergence,289,Critical,Shutdown,2023-02-12
+CV336,NYC,Raid,84,Critical,Unconfirmed,2022-11-12
+CV337,Midwest,Supe Emergence,292,Medium,Quarantined,2022-02-13
+CV338,Southern States,Raid,474,Medium,Active,2022-05-07
+CV339,Midwest,Formula Theft,302,Critical,Active,2021-12-02
+CV340,West Coast,Leak,304,Critical,Quarantined,2022-06-26
+CV341,East Corridor,Raid,88,Medium,Unconfirmed,2023-04-10
+CV342,East Corridor,Formula Theft,214,High,Quarantined,2023-07-30
+CV343,NYC,Leak,472,High,Unconfirmed,2023-07-12
+CV344,Overseas Blacksite,Leak,497,High,Shutdown,2023-06-03
+CV345,Southern States,Supe Emergence,302,High,Active,2022-06-16
+CV346,Midwest,Supe Emergence,308,Critical,Active,2021-10-28
+CV347,Overseas Blacksite,Leak,264,Critical,Quarantined,2021-05-31
+CV348,Overseas Blacksite,Formula Theft,209,High,Quarantined,2021-01-02
+CV349,Overseas Blacksite,Supe Emergence,38,High,Unconfirmed,2022-03-13
+CV350,West Coast,Formula Theft,206,Critical,Shutdown,2021-01-19
+CV351,Southern States,Supe Emergence,33,High,Shutdown,2021-09-23
+CV352,Midwest,Supe Emergence,54,Medium,Quarantined,2023-02-01
+CV353,Midwest,Leak,363,Critical,Quarantined,2022-03-07
+CV354,NYC,Raid,184,High,Shutdown,2022-02-04
+CV355,Southern States,Raid,422,Medium,Unconfirmed,2023-04-04
+CV356,Midwest,Raid,209,Critical,Active,2022-01-23
+CV357,Southern States,Supe Emergence,141,Medium,Unconfirmed,2022-09-27
+CV358,Midwest,Black Market Seizure,82,High,Quarantined,2023-08-03
+CV359,NYC,Supe Emergence,85,High,Active,2023-07-19
+CV360,Midwest,Raid,236,High,Shutdown,2021-06-24
+CV361,Midwest,Leak,284,Medium,Shutdown,2021-12-29
+CV362,Overseas Blacksite,Black Market Seizure,255,Medium,Unconfirmed,2021-12-04
+CV363,Southern States,Formula Theft,465,High,Unconfirmed,2022-05-22
+CV364,East Corridor,Raid,376,Low,Quarantined,2022-06-18
+CV365,East Corridor,Black Market Seizure,316,Medium,Unconfirmed,2022-09-22
+CV366,East Corridor,Leak,460,Medium,Unconfirmed,2021-05-03
+CV367,Southern States,Formula Theft,389,Medium,Active,2022-08-10
+CV368,Southern States,Formula Theft,132,High,Unconfirmed,2021-11-25
+CV369,Southern States,Raid,149,Low,Quarantined,2021-11-21
+CV370,Southern States,Leak,325,Medium,Quarantined,2023-07-16

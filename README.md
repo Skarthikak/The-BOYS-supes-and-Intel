@@ -1,11 +1,10 @@
+![Screenshot 2025-07-07 164524](https://github.com/user-attachments/assets/72ae2a71-ea7a-41be-a04a-359813abdadb)
+![Screenshot 2025-07-07 164512](https://github.com/user-attachments/assets/b72592e9-e46f-413a-83a7-fc5e0e179e9a)
 ![Screenshot 2025-07-07 164617](https://github.com/user-attachments/assets/01e3e0fe-3c99-495c-a78e-e1faf4cfae0a)
 ![Screenshot 2025-07-07 164558](https://github.com/user-attachments/assets/275407e2-b0ad-451e-8ea4-bce001ece380)
 ![Screenshot 2025-07-07 164548](https://github.com/user-attachments/assets/fe7eec6b-c8de-409e-8c84-a94f26f676d2)
 ![Screenshot 2025-07-07 164536](https://github.com/user-attachments/assets/bcafce33-0ccf-46a1-b8a1-0985f66dd3aa)
-![Screenshot 2025-07-07 164524](https://github.com/user-attachments/assets/72ae2a71-ea7a-41be-a04a-359813abdadb)
-![Screenshot 2025-07-07 164512](https://github.com/user-attachments/assets/b72592e9-e46f-413a-83a7-fc5e0e179e9a)
-![Screenshot 2025-07-07 154310](https://github.com/user-attachments/assets/9da2d7a4-4962-4354-8dc8-6daf4f81155c)
-[The Boys – Supes & Scandals Monitor.pdf](https://github.com/user-attachments/files/21101364/The.Boys.Supes.Scandals.Monitor.pdf)
+
 # 🧠 Vought Intelligence Feed: Compound V Threat Dashboard
 
 Welcome to the **Compound V Threat Console**, a narrative-driven Power BI dashboard inspired by *The Boys* universe. This report blends data storytelling, fictional intelligence, and cinematic visuals to simulate Vought’s internal surveillance and PR ops console.
